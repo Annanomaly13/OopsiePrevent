@@ -18,7 +18,7 @@ While backing up files locally is easy in theory, the small amount of friction i
 - 💾 One-click backup
 - 🔁 **Incremental copying** (only new or updated files are copied)
 - 🧠 Remembers previously used folders (history dropdowns)
-- 🪶 Lightweight and fast (built with Python + Tkinter)
+- ⚡ Lightweight and fast (built with Python + Tkinter)
 
 ---
 
