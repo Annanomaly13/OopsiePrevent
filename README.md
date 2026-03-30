@@ -40,7 +40,7 @@ That’s it — the app will:
 
 ```bash
 python your_script.py
-
+`
 ### Option 2: Run as a Windows App (No Console Window)
 
 1. Create a shortcut to your `.py` file  
